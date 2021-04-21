@@ -1,0 +1,13 @@
+name = "SerializingChannels"
+uuid = "12c9affa-50a2-11e9-0601-ff80a374b3ea"
+authors = ["IHP Systems R&D <research@ihp.dk>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
