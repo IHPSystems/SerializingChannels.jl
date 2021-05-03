@@ -1,2 +1,12 @@
 # This file is machine-generated - editing it directly is not advised
 
+[[Serialization]]
+uuid = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+[[TypeSerializers]]
+deps = ["Serialization"]
+git-tree-sha1 = "6a3471f9fcbd9c2edfb4467cbf791a8cd8a26ae4"
+repo-rev = "v0.1.0"
+repo-url = "https://github.com/IHPSystems/TypeSerializers.jl"
+uuid = "66ceb7d2-8c8e-4075-97ca-ace8f0b9e750"
+version = "0.1.0"
